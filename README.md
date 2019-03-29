@@ -2,27 +2,31 @@
 
 #### qitas@qitas.cn
 
-## [Inception](https://github.com/tfzoo/Inception) 
+## 网络相关
 
-## [YOLO](https://github.com/tfzoo/YOLO) 
+### [Inception](https://github.com/tfzoo/Inception) 
 
-## [MobileNet](https://github.com/tfzoo/MobileNet) 
+### [YOLO](https://github.com/tfzoo/YOLO) 
 
-## [VGG16](https://github.com/tfzoo/VGG16) 
+### [MobileNet](https://github.com/tfzoo/MobileNet) 
 
-## [GPU运算](https://github.com/tfzoo/GPU) 
+### [VGG16](https://github.com/tfzoo/VGG16) 
 
-## [arm mali](https://github.com/tfzoo/mali) 
+## 平台相关
 
-## [arm平台](https://github.com/tfzoo/arm) 
+### [GPU运算](https://github.com/tfzoo/GPU) 
 
-## [arm mali](https://github.com/tfzoo/mali) 
+### [arm mali](https://github.com/tfzoo/mali) 
+
+### [arm平台](https://github.com/tfzoo/arm) 
+
+### [arm mali](https://github.com/tfzoo/mali) 
 
 ---
 
-#### 天府动物园TFZOO
+#### 天府动物园 TF Zoo
 [![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
-####  [TFZOO：tensorflow models zoo](http://www.tfzoo.com)
+####  [TFZoo：tensorflow models zoo](http://www.tfzoo.com)
 
 
 
